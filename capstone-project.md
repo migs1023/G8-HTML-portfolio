@@ -1,4 +1,3 @@
-# G8-HTML-portfolio
 # html-portfolio-G8
 <!DOCTYPE html>
 <html lang="en">
